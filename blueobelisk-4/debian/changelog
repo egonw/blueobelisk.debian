@@ -1,3 +1,9 @@
+blueobelisk (4-1ubuntu1) lucid; urgency=low
+
+  * Added the missing avogadro package
+
+ -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 19:00:39 +0200
+
 blueobelisk (3-1ubuntu2) lucid; urgency=low
 
   * Added copyright information

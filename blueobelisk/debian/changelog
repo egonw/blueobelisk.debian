@@ -1,5 +1,5 @@
-blueobelisk (1.0-1) main; urgency=low
+blueobelisk (1-1) main; urgency=low
 
-   * Initial release
+  * Initial release.
 
-  -- Egon Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 10:16:31 +0100
+ -- Egon Willighagen  <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 10:48:09 +0200

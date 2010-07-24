@@ -1,3 +1,9 @@
+blueobelisk (2-2ubuntu1) lucid; urgency=low
+
+  * Fixed Ubuntu version number
+
+ -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 11:44:26 +0200
+
 blueobelisk (2-1ubuntu-1) lucid; urgency=low
 
   * Added missing openbabel, kalzium, and bodr packages

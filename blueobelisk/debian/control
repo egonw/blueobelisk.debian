@@ -1,0 +1,11 @@
+Package: blueobelisk
+Version: 1
+Section: science
+Priority: optional
+Architecture: all
+Depends: libcdk-java, chemical-mime-data
+Installed-Size:
+Maintainer: Egon Willighagen <egon.willighagen@gmail.com>
+Description: A metapackage for Blue Obelisk software.
+ A meta package that depends on all Blue Obelisk software,
+ and will trigger it to be automatically installed too.

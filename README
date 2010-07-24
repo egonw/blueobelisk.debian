@@ -1,0 +1,11 @@
+Blue Obelisk
+------------
+
+Metapackage for Debian to automatically install all available Blue Obelisk software.
+
+Building
+--------
+
+* edit blueobelisk/debian/control
+* edit blueobelisk/debian/changelog
+* dpkg --build blueobelisk

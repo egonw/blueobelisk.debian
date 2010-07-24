@@ -7,11 +7,11 @@ Standards-Version: 3.8.4
 Homepage: http://www.blueobelisk.org
 
 Package: blueobelisk
-Version: 1
+Version: 3
 Section: science
 Priority: optional
 Architecture: all
-Depends: libcdk-java, chemical-mime-data, openbabel, kalzium, bodr
+Depends: libcdk-java, chemical-mime-data, openbabel, kalzium, bodr, gchempaint, gcrystal, gcu-bin
 Description: A metapackage for Blue Obelisk software.
  A meta package that depends on all Blue Obelisk software,
  and will trigger it to be automatically installed too.

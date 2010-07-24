@@ -1,8 +1,8 @@
-blueobelisk (2-2ubuntu1) lucid; urgency=low
+blueobelisk (3-1ubuntu1) lucid; urgency=low
 
-  * Fixed Ubuntu version number
+  * Added missing gnome-chemistry-utils packages: gchempaint, gcrystal, gcu-bin
 
- -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 11:44:26 +0200
+ -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 12:12:26 +0200
 
 blueobelisk (2-1ubuntu-1) lucid; urgency=low
 

@@ -6,6 +6,9 @@ Metapackage for Debian to automatically install all available Blue Obelisk softw
 Building
 --------
 
-* edit blueobelisk/debian/control
-* edit blueobelisk/debian/changelog
-* dpkg --build blueobelisk
+* mv blueobelisk-N blueobelisk-M
+* cd blueobelisk-M
+* nano debian/control
+* nano debian/changelog
+* debuild -S -sa
+* dput ppa:egonw/ppa blueobelisk_1-1_source.changes

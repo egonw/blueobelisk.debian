@@ -2,6 +2,7 @@ blueobelisk (2-1ubuntu-1) lucid; urgency=low
 
   * Added missing openbabel, kalzium, and bodr packages
   * Fixed typo in the changelog
+  * Moved from kde to science section
 
  -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 11:38:46 +0200
 

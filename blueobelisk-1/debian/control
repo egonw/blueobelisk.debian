@@ -1,11 +1,17 @@
+Source: blueobelisk
+Section: kde
+Priority: optional
+Maintainer: E.L. Willighagen <egon.willighagen@gmail.com>
+Build-Depends: debhelper (>= 7.0.50)
+Standards-Version: 3.8.4
+Homepage: http://www.blueobelisk.org
+
 Package: blueobelisk
 Version: 1
 Section: science
 Priority: optional
 Architecture: all
 Depends: libcdk-java, chemical-mime-data
-Installed-Size:
-Maintainer: Egon Willighagen <egon.willighagen@gmail.com>
 Description: A metapackage for Blue Obelisk software.
  A meta package that depends on all Blue Obelisk software,
  and will trigger it to be automatically installed too.

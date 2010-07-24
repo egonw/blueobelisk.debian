@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+override_dh_gencontrol:
+	dh_gencontrol --remaining-packages --
+
+%:
+	dh $@

@@ -1,3 +1,9 @@
+blueobelisk (2-1ubuntu-1) lucid; urgency=low
+
+  * Added missing openbabel, kalzium, and bodr packages
+
+ -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 11:38:46 +0200
+
 blueobelisk (1-1ubuntu1) lucid; urgency=low
 
   * Fied distribution from main to lucid, as expected for Ubuntu.

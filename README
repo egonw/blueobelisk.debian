@@ -3,6 +3,12 @@ Blue Obelisk
 
 Metapackage for Debian to automatically install all available Blue Obelisk software.
 
+Installation
+------------
+
+* sudo add-apt-repository ppa:egonw
+* sudo aptitude install blueobelisk
+
 Building
 --------
 

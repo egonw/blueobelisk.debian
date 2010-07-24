@@ -1,3 +1,9 @@
+blueobelisk (3-1ubuntu2) lucid; urgency=low
+
+  * Added copyright information
+
+ -- E.L. Willighagen <egon.willighagen@gmail.com>  Sat, 24 Jul 2010 12:26:03 +0200
+
 blueobelisk (3-1ubuntu1) lucid; urgency=low
 
   * Added missing gnome-chemistry-utils packages: gchempaint, gcrystal, gcu-bin

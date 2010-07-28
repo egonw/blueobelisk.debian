@@ -1,3 +1,11 @@
+blueobelisk (5) lucid; urgency=low
+
+  * New upstream release
+  * debian/compat is now 7
+  * dropped the Debian/Ubuntu revision
+
+ -- E.L. Willighagen <egon.willighagen@gmail.com>  Wed, 28 Jul 2010 14:17:36 +0200
+
 blueobelisk (4-1ubuntu1) lucid; urgency=low
 
   * Added the missing avogadro package
